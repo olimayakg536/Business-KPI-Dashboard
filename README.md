@@ -2,7 +2,7 @@
 
 An interactive, browser-only dashboard that helps a business understand **customer churn, retention, revenue at risk and customer behavior**. Built for a customer churn analytics internship task.
 
-> **Live demo:** `https://YOUR-VERCEL-URL.vercel.app` *(placeholder: add after a successful deployment)*
+> **Live demo:** https://business-kpi-dashboard-nine.vercel.app/ *(placeholder: add after a successful deployment)*
 > **GitHub repository:** `https://github.com/YOUR-USERNAME/Business-KPI-Dashboard` *(placeholder: add after pushing)*
 
 ## Business problem

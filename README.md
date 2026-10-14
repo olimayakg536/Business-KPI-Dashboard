@@ -81,29 +81,6 @@ npm run preview    # serve the production build locally
 npm test           # run the calculation tests
 ```
 
-## Push to GitHub
-
-1. Create an empty repository named `Business-KPI-Dashboard` on GitHub (no README, no .gitignore).
-2. In the project folder:
-
-```powershell
-git remote add origin https://github.com/YOUR-USERNAME/Business-KPI-Dashboard.git
-git push -u origin main
-```
-
-## Deploy to Vercel
-
-1. Sign in at <https://vercel.com> with your GitHub account.
-2. Click **Add New → Project** and import `Business-KPI-Dashboard`.
-3. Vercel detects Vite automatically. Confirm: Build Command `npm run build`, Output Directory `dist`.
-4. Click **Deploy** and copy the live URL into this README.
-
-No environment variables or `vercel.json` are needed.
-
-## Screenshots
-
-*Add screenshots after deployment, for example `docs/dashboard-desktop.png` and `docs/dashboard-mobile.png`.*
-
 ## Limitations
 
 - The bundled sample has only 15 customers, so percentages jump a lot (one customer = 6.7 points). Results are illustrative.
